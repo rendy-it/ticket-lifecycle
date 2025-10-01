@@ -29,7 +29,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2> << Ticket Intake >> </h2>
 <p>
-<img width="1155" height="827" alt="Step 0" src="https://github.com/user-attachments/assets/42848d88-a428-4325-900b-a91e6f937809" />
+<img width="1151" height="651" alt="Step 1" src="https://github.com/user-attachments/assets/2dda1b78-e215-4220-9a4e-dc19521610ca" />
 
 
 </p>
@@ -42,13 +42,17 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <br />
 <p>
-<img width="1154" height="566" alt="Step 0a" src="https://github.com/user-attachments/assets/84de02e9-1491-4983-b714-66cb1548a990" />
+<img width="842" height="990" alt="Step 1a" src="https://github.com/user-attachments/assets/26a13d30-5f61-4de1-abc5-28d3a10f58fd" />
+
 
 
 <p>
   
-- Which will direct you to the Agent Panel.
-- The Agent Panel is where you the worker is working the tickets.
+- Recall in the previous project that we created 2 users. One of them was named “Karen” so we will input that user’s info.
+- For the Help Topic we went with “Report a Problem”.
+- For the Issue Summary, make it correspondent to whichever issue the person may have.
+- Then select “Create Ticket”. 
+
 
   
 </p>
