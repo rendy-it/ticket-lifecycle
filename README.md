@@ -53,36 +53,28 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - For the Issue Summary, make it correspondent to whichever issue the person may have.
 - Then select “Create Ticket”. 
 
-
   
 </p>
 <br />
 <p>
-<img width="963" height="407" alt="Step 1b" src="https://github.com/user-attachments/assets/93446a31-9cc7-430a-9f31-bf92e3cf258c" />
-
-
-</p>
-<p>
-  
-- Next, Click on the Admin Panel at the top right.
-
-
-</p>
-<br />
-<p>
-<img width="737" height="884" alt="Step 1b1" src="https://github.com/user-attachments/assets/19d6f19e-d9ae-4f32-8f7b-26932064e63e" />
+<img width="842" height="991" alt="Step 1b" src="https://github.com/user-attachments/assets/cd19122c-31ba-4917-aa20-0c0f36349080" />
 
 
 </p>
 <p>
   
-- The Admin Panel is where you configure settings on the backend for osTicket.
+- Next, we are going to create another ticket but this time for the other user that we created named “Ken”.
+- Open a New Ticket again.
+- Recall in the previous project that we created 2 users. One of them was named “Ken” so we will input that user’s info.
+- For the Help Topic we went with “Report a Problem/Password Reset”.
+- For the Issue Summary it, make it correspondent to whichever issue the person may have.
+- Then select “Create Ticket”. 
 
 
 </p>
 <br />
 
-<h2> << Setup 2: Configure Agent Roles >> </h2>
+<h2> << Ticket Assignment and Communication >> </h2>
 
 <p>
 <img width="963" height="452" alt="Step 2" src="https://github.com/user-attachments/assets/b3b9875d-7a4f-4669-9be5-969458021d5d" />
