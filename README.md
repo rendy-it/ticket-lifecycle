@@ -148,103 +148,102 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <br />
 
-<h2> << Setup 3: Configure Departments  >> </h2>
 <p>
-<img width="966" height="382" alt="Step 3" src="https://github.com/user-attachments/assets/df440bf5-544d-4634-8f1e-51e0f3924bb1" />
+<img width="889" height="997" alt="Step 2a5" src="https://github.com/user-attachments/assets/b1ec1c08-6142-4a93-9d6b-31a2276e007b" />
 
-</p>
+
 <p>
   
-- We are going to create a department in osTicket.
-- On the Admin Panel page, go to the "Agents" tab. 
-- Select “Departments” then select “Add New Department”.
+- So, I assigned the ticket to the Online Banking Team and made it so that Jane took over the ticket. I acknowledged the issue to Karen the user and responded with an update of what the problem could be related to after investigating. This assures Karen that I am working on the problem. Then I updated Karen on what was done to solve the problem, assuring her that everything is back up and running.
+- The Ticket Thread section is there to give the agent access to communicate to the customer, to keep them updated on the ticket’s progress of being resolved. It’s also very important through good communication skills to remain polite and empathetic with the customers.
 
-
+   
 </p>
 <br />
 
 <p>
-<img width="962" height="1168" alt="Step 3a" src="https://github.com/user-attachments/assets/2b44c302-cb77-4b8a-bf5f-f88534a7085a" />
+<img width="770" height="998" alt="Step 2a6" src="https://github.com/user-attachments/assets/b3030823-313f-49b3-9124-724f4ab4e321" />
 
-</p>
+
 <p>
   
-- Next, input the name “SysAdmins” then select “Create Dept”.
-
-
+- Now that everything is resolved, you can now close the ticket. Select the Status “Open” and select “Resolved”. Then select “Close”.
+   
 </p>
 <br />
 
 <p>
-<img width="963" height="435" alt="Step 3b" src="https://github.com/user-attachments/assets/fd33de3f-89ef-4065-94c5-d77891667511" />
+<img width="650" height="255" alt="Step 2b1" src="https://github.com/user-attachments/assets/496fa44d-37df-4676-ab7e-1d25bb4f6727" />
 
 
-</p>
 <p>
   
-- Now you have created your first Department in osTicket. 
-
-
-</p>
-<br />
-
-<h2> << Setup 4: Configure Teams  >> </h2>
-<p>
-<img width="963" height="365" alt="Step 4" src="https://github.com/user-attachments/assets/35c01c0e-86bf-40c6-a774-80f68269910b" />
-
-</p>
-<p>
+- Next, we are going to assign the other ticket to John since John has a support role.
+- Jane as the Admin Agent will give John the assignment. Select the other ticket that was submitted by Ken from the previous steps above.
+- This ticket submitted by Ken is a Password Reset issue and we are going to let John from the Support Team take over.
   
--	We are going to create a Team in osTicket.
--	On the Admin Panel page, go to the "Agents" tab.
--	Select “Teams” then select “Add New Team”.
-
-
+   
 </p>
 <br />
 
 <p>
-<img width="964" height="731" alt="Step 4a" src="https://github.com/user-attachments/assets/8d9bea70-b2be-404c-b5f9-1c501e343660" />
+<img width="605" height="546" alt="Step 2b2" src="https://github.com/user-attachments/assets/7e7a37c2-2ff9-4653-abc0-a420b4445884" />
 
 
-</p>
 <p>
   
-- Next, input the name "Online Banking" then select “Create Team”.
-
-
+- Next, log out and go log in as John.
+   
 </p>
 <br />
 
 <p>
-<img width="963" height="387" alt="Step 4b" src="https://github.com/user-attachments/assets/e888620f-b21c-48de-9cfb-1009afeb6508" />
+<img width="960" height="464" alt="Step 2b2a" src="https://github.com/user-attachments/assets/2ec5c67a-cd35-45fc-9ffa-d1bbc79f4bdc" />
 
 
-</p>
 <p>
   
-- Go back to the Teams page and you will see your new team created.
+- Then select the ticket assigned which in this case is the Password Reset ticket.
 
-
+   
 </p>
 <br />
 
-<h2> << Setup 5: Allow anyone to set up tickets >> </h2>
 <p>
-<img width="962" height="737" alt="Step 5" src="https://github.com/user-attachments/assets/b94a56d6-4b45-4d3d-bd5b-7b38f9f1419f" />
+<img width="897" height="996" alt="Step 2b3" src="https://github.com/user-attachments/assets/4b4e08f8-b454-419e-b461-bcc1a6881d66" />
 
 
-</p>
 <p>
   
-- We are going to turn off the setting that requires registration and login for a user to create tickets.
-- On the Admin Panel page, go to the "Settings" tab.
-- Select “Users” and make sure that the “Require registration and log in to create tickets” box is checked off then select “Save Changes”.
+- The issue has been resolved as we can see by reading the Ticket Thread log.
 
-
+   
 </p>
 <br />
 
+<p>
+<img width="822" height="994" alt="Step 2b4" src="https://github.com/user-attachments/assets/ed4d3e5a-6b7b-4c63-8af3-51a2155c40f6" />
+
+
+<p>
+  
+- You can now close the ticket to status resolved. 
+
+   
+</p>
+<br />
+
+<p>
+<img width="960" height="441" alt="Step 2c" src="https://github.com/user-attachments/assets/92992a73-73f1-435c-8ccf-381720964d29" />
+
+
+<p>
+  
+- All tickets have been resolved.
+
+   
+</p>
+<br />
 
 <h2> << Conclusion >> </h2>
 
@@ -254,7 +253,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Go Back to your Azure resource group page.
 - Make sure your VMs are on “Stop” status if you are not going to use them right away. This way you will not be charged while they are not in use.
 - Also, make sure your VMs are on “Stop” status if you are not going to use them right away. This way you will not be charged while they are not in use.
-- To conclude, we have successfully configured osTicket inside our Windows Virtual Machine that is being resourced by the Azure cloud infrastructure. 
+- To conclude, we were able to create tickets from an end user’s perspective. Then we were able to go and solve those tickets through the Helpdesk Agents perspective. Both from an admin role and a support role. 
 
 
 </p>
