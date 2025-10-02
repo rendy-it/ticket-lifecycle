@@ -22,10 +22,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Ticket Lifecycle Stages</h2>
 
 -	Ticket Intake
--	Ticket Assignment and Communication
--	Working Tickets
--	Resolution of Tickets
-
+-	Ticket Assignment and Communication | Working Tickets |	Resolution of Tickets
+  
 
 <h2> << Ticket Intake >> </h2>
 <p>
@@ -74,7 +72,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <br />
 
-<h2> << Ticket Assignment and Communication >> </h2>
+<h2> << Ticket Assignment and Communication | Working Tickets |	Resolution of Tickets >> </h2>
 
 <p>
 <img width="963" height="452" alt="Step 2" src="https://github.com/user-attachments/assets/b3b9875d-7a4f-4669-9be5-969458021d5d" />
