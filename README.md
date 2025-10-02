@@ -75,52 +75,78 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2> << Ticket Assignment and Communication | Working Tickets |	Resolution of Tickets >> </h2>
 
 <p>
-<img width="963" height="452" alt="Step 2" src="https://github.com/user-attachments/assets/b3b9875d-7a4f-4669-9be5-969458021d5d" />
+<img width="600" height="494" alt="Step 2" src="https://github.com/user-attachments/assets/5ae610c2-ed55-4ef3-ac65-d6ed8f2678fe" />
 
 
 </p>
 <p>
   
-- Once on the Admin Panel page, we are now going to create our osTicket role.
-- We are going to create a Supreme Admin Role to give it lots of permissions. This is just an example as this is not normal in the work field.
-- Go to the “Agents” tab. Select “Roles” then select “Add New Role”.
-
-
+- Go to the osTicket login page: http://localhost/osTicket/scp/login.php .
+	- Log in as the admin user we created in the previous project.
+	- One of mine was Jane.
 
 
 </p>
 <br />
 <p>
-<img width="960" height="624" alt="Step 2a" src="https://github.com/user-attachments/assets/4c95b7a0-4fb0-40c4-af4e-21a47cba6dfc" />
+<img width="962" height="462" alt="Step 2a" src="https://github.com/user-attachments/assets/766068ee-fba6-48c4-959c-8ef26ec036e4" />
 
 
 <p>
   
-- Next, input the name “Supreme Admin” then select “Permissions”.
+- Once logged in, you will see the 2 tickets that were submitted by the users Karen and Ken. Select the “Online Banking” one from Karen.
    
 </p>
 <br />
 <p>
-<img width="964" height="761" alt="Step 2b" src="https://github.com/user-attachments/assets/add345fe-a9ba-495a-bd42-bc30f0524ae3" />
+<img width="770" height="999" alt="Step 2a1" src="https://github.com/user-attachments/assets/bb8d20f5-e701-4eab-97af-50949772acb9" />
 
 
 <p>
   
-- Next, be sure to check every single permission for the “Tickets”, “Tasks” and “Knowledgebase” tabs then select “Add Role”.
+- As a Help Desk Agent (Jane) will observe the ticket’s properties.
+- The Priority, Department, SLA and who the ticket is assigned to.
+- Set the Ticket’s properties by selecting the SLA Plan “Default SLA”.
+
    
 </p>
 <br />
 <p>
-<img width="963" height="501" alt="Step 2c" src="https://github.com/user-attachments/assets/1ef5f87c-3b52-478d-8da7-a20c80f9592b" />
+<img width="650" height="255" alt="Step 2a2" src="https://github.com/user-attachments/assets/9ac077ff-1a0d-44a6-a643-2fbbc5aa6df7" />
 
 
 <p>
   
-- Now you have created your first Role as an Admin in osTicket.
+- Change it to “SEV-A” and write down a reason. Then select “Update”.
    
 </p>
 <br />
 
+<p>
+<img width="650" height="255" alt="Step 2a3" src="https://github.com/user-attachments/assets/29292c16-94e2-45da-8a78-eb594626a093" />
+
+
+<p>
+  
+- Then select the Help Topic “Report a Problem”.
+- Change it to “Report a Problem / Business Critical Outage” and write down the reason. Then select “Update”.
+
+   
+</p>
+<br />
+
+<p>
+<img width="650" height="255" alt="Step 2a4" src="https://github.com/user-attachments/assets/fc90d09e-9485-4a8a-80d3-0af96de7d328" />
+
+
+<p>
+  
+- Then Select the Assigned To “Unassigned”.
+- Change it to “Online Banking” and write down a reason. Then Select “Assign”.
+
+   
+</p>
+<br />
 
 <h2> << Setup 3: Configure Departments  >> </h2>
 <p>
